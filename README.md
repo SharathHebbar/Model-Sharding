@@ -58,3 +58,6 @@ Wall time: 1min 49s
 - HF Docs: https://huggingface.co/docs/transformers/en/big_models
 - Using Accelerate: https://huggingface.co/docs/transformers/en/main_classes/model#large-model-loading
 - Template: https://colab.research.google.com/drive/18z7PzYkRuYfZd1Vqtz1ARkZOiwAmd9Hw?usp=sharing
+- Github: https://github.com/SharathHebbar/Model-Sharding
+- Medium: https://medium.com/@sharathhebbar24/llm-model-sharding-55102ecb1823
+- Credits: https://medium.com/@jain.sm/sharding-large-models-for-parallel-inference-ee19844cc44#:~:text=Memory%20Efficiency%3A%20Sharding%20enables%20running,parts%2C%20reducing%20memory%20requirements%20significantly.
